@@ -1,12 +1,11 @@
 # ERRATA resource pack
 
-The resource pack for **ERRATA** on Stuprator's Server. Minecraft Java 1.21.11 downloads it automatically when you join.
-You don't need to install anything by hand.
+**ERRATA** offers this optional pack to Minecraft Java 1.21.11 on your first join after login. Accept the in-game prompt
+to use it that session. Flashlight beams, encounters, and paging also run on stock clients.
 
 What it adds:
-- a flashlight that lights only where you point it, drawn per pixel in the world shaders, with a little film grain
-- the Index's residents: the Erratum, the Proofreader, the Blank and the Copy
-- ambience and music for each district
+- the Index's residents, including a Cave Dweller variant that retains the face and clothes of its former Reader
+- district ambience and music, plus recorded intercom cues
 - art for the flashlight, erratum sheets, chalk, thread and flares
 
 ## Credits
@@ -23,4 +22,4 @@ an open-source mod. All of them are used under their licenses:
 | District ambience, hum, intercoms, music | Found Footage sounds | MinecraftFoundFootage (spb-revamped) | GPL-3.0 / LGPL-3.0 |
 
 Because of these assets, the pack as a whole is distributed under the GNU General Public License v3 (see `LICENSE`).
-The zip is its own source: every model, texture, shader and sound inside it is a readable file.
+The zip includes the models, textures and sounds.
